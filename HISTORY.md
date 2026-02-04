@@ -26,7 +26,7 @@ This extended drum section became the foundation for MCs to hype up the crowd.
 
 ## 3. The Old School Era (Early 1980s)  
 
-[Run DMC](https://i.imgur.com/e80w9gc.jpg)
+![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
 - *"Rapper’s Delight"* by the [Sugarhill Gang](https://youtu.be/mcCK99wHrk0) (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. 
@@ -35,29 +35,30 @@ As hip hop gained traction, artists began recording tracks commercially.
 
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
-[Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
+![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 > “I never sleep, ’cause sleep is the cousin of death.” – Nas, *N.Y. State of Mind*
-The Golden Age is often described as the most creative and influential period of hip hop.  
+
+The **Golden Age** is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
 
-4.1 East Coast Greats  
-- A Tribe Called Quest – jazz-influenced beats, socially conscious lyrics.  
-- The Notorious B.I.G. – storytelling genius, Ready to Die (1994).  
-- Nas – Illmatic (1994), often considered one of the greatest hip hop albums ever.  
+### 4.1 East Coast Greats  
+- **A Tribe Called Quest** – jazz-influenced beats, socially conscious lyrics.  
+- **The Notorious B.I.G.** – storytelling genius, *Ready to Die* (1994).  
+- **Nas** – *Illmatic* (1994), often considered one of the greatest hip hop albums ever.  
 
-4.2 West Coast Pioneers  
-- N.W.A. – brought gangsta rap to the forefront with Straight Outta Compton (1988).  
-- Tupac Shakur (2Pac) – poetic lyricism with political and emotional depth.  
-- Ice Cube and Dr. Dre – pushed West Coast sound into the mainstream.  
+### 4.2 West Coast Pioneers  
+- **N.W.A.** – brought gangsta rap to the forefront with *Straight Outta Compton* (1988).  
+- **Tupac Shakur (2Pac)** – poetic lyricism with political and emotional depth.  
+- **Ice Cube** and **Dr. Dr** – pushed West Coast sound into the mainstream.  
 
-5. Elements of Style  
+## 5. Elements of Style  
 
-5.1 Lyrical Themes  
+### 5.1 Lyrical Themes  
 - Social commentary (racism, poverty, politics)  
 - Braggadocio and wordplay  
 - Storytelling and narratives  
 
-5.2 Production Techniques  
+### 5.2 Production Techniques  
 - Sampling from funk, jazz, and soul records  
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
