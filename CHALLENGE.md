@@ -1,11 +1,11 @@
-Tricky Examples
+# Tricky Examples
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
-Example 1
-Programming Languages
-Python
-Popular Frameworks
-Django
+## Example 1
+1. Programming Languages
+   * Python
+   a. Popular Frameworks 
+         * Django
 Flask
 Notable Features
 Dynamic typing
@@ -19,7 +19,7 @@ Backend
 Node.js
 Deno
 
-Databases
+2. Databases
 Relational
 PostgreSQL
 MySQL
