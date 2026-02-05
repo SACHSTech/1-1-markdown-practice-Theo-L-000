@@ -4,28 +4,27 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
 ## Example 1
 1. Programming Languages
    * Python
-   a. Popular Frameworks 
+      1. Popular Frameworks 
          * Django
-Flask
-Notable Features
-Dynamic typing
-Huge ecosystem
-JavaScript
-Frontend
-React
-Vue
-Angular
-Backend
-Node.js
-Deno
-
+         * Flask
+      2. Notable Features
+         * Dynamic typing
+         * Huge ecosystem
+   * JavaScript
+      1. Frontend
+         * React
+         * Vue
+         * Angular
+      2. Backend
+         * Node.js
+         * Deno
 2. Databases
-Relational
-PostgreSQL
-MySQL
-NoSQL
-MongoDB
-Redis
+   * Relational
+      1. PostgreSQL
+      2. MySQL
+   * NoSQL
+      1. MongoDB
+      2. Redis
 
 Example 2
 This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
